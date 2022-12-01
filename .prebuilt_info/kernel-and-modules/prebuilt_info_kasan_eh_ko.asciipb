@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9344998"
+    build_id: "9351261"
     target: "shusky_kasan"
     source_file: "eh.ko"
   }
   dest_file: "kasan/eh.ko"
-  version: "Linux version 5.15.41-android13-8-756491-g02b4d9ccf661-ab9344998 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Tue Nov 22 23:31:21 UTC 2022"
+  version: "Linux version 5.15.41-android13-8-756553-g921218de7690-ab9351261 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Tue Nov 29 09:19:50 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
