@@ -4,6 +4,7 @@ kernel/drivers/misc/eeprom/at24.ko
 kernel/drivers/misc/open-dice.ko
 kernel/drivers/spi/spidev.ko
 kernel/drivers/i2c/i2c-dev.ko
+kernel/drivers/perf/arm-cmn.ko
 kernel/net/wireless/cfg80211.ko
 kernel/net/mac80211/mac80211.ko
 extra/private/google-modules/bms/misc/gvotable.ko
