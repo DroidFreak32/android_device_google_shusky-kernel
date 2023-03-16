@@ -66,7 +66,6 @@ extra/private/google-modules/aoc/aoc_channel_dev.ko
 extra/private/google-modules/aoc/aoc_uwb_platform_drv.ko
 extra/private/google-modules/aoc/aoc_uwb_service_dev.ko
 extra/private/google-modules/aoc/alsa/aoc_alsa_dev.ko
-extra/private/google-modules/aoc/alsa/aoc_alsa_dev_util.ko
 extra/private/google-modules/amplifiers/cs35l41/snd-soc-cs35l41.ko
 extra/private/google-modules/amplifiers/cs35l41/snd-soc-cs35l41-spi.ko
 extra/private/google-modules/amplifiers/cs35l41/snd-soc-cs35l41-i2c.ko
