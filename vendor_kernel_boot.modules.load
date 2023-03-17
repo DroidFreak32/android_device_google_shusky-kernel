@@ -135,6 +135,7 @@ extra/private/google-modules/soc/gs/drivers/block/zram/zcomp_cpu.ko
 extra/private/google-modules/soc/gs/drivers/block/zram/zcomp_eh.ko
 extra/private/google-modules/aoc/aoc_core.ko
 extra/private/google-modules/aoc/aoc_tbn_service_dev.ko
+extra/private/google-modules/aoc/alsa/aoc_alsa_dev_util.ko
 extra/private/google-modules/aoc/usb/aoc_usb_driver.ko
 extra/private/google-modules/bms/google-bms.ko
 extra/private/google-modules/bms/google-battery.ko
