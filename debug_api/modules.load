@@ -34,6 +34,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/debug/sjtag-driver.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/vh_sched.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/sched_tp.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/systrace.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/mm/vh_mm.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/cgroup/vh_cgroup.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/pixel_em/pixel_em.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/thermal/vh_thermal.ko
@@ -64,6 +65,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/cpif/shm_ipc.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/cpif/cpif_page.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/cpif/cpif.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/eh/eh.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/gcma/gcma.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/hardlockup-debug.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/hardlockup-watchdog.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/pkvm-s2mpu/pkvm-s2mpu.ko
