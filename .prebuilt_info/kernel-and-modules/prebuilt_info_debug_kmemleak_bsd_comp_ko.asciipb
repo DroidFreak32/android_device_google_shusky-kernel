@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9918286"
+    build_id: "9919448"
     target: "shusky_debug_kmemleak"
     source_file: "bsd_comp.ko"
   }
   dest_file: "debug_kmemleak/bsd_comp.ko"
-  version: "Linux version 5.15.106-android14-3-767429-gfa0bcb0164dd-ab9918286 (build-user@build-host) (Android (9796371, based on r487747) clang version 17.0.0 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.0) #1 SMP PREEMPT Mon Apr 10 18:14:59 UTC 2023"
+  version: "Linux version 5.15.106-android14-3-767430-g25b4874784a7-ab9919448 (build-user@build-host) (Android (9796371, based on r487747) clang version 17.0.0 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.0) #1 SMP PREEMPT Mon Apr 10 18:45:59 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
