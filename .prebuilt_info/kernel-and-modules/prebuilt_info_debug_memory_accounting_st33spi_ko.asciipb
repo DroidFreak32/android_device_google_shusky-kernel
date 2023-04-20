@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9965717"
+    build_id: "9970741"
     target: "shusky_debug_memory_accounting"
     source_file: "st33spi.ko"
   }
   dest_file: "debug_memory_accounting/st33spi.ko"
-  version: "Linux version 5.15.106-android14-3-g33acad63c8d9-ab9965717 (build-user@build-host) (Android (9796371, based on r487747) clang version 17.0.0 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.0) #1 SMP PREEMPT Thu Apr 13 07:07:36 UTC 2023"
+  version: "Linux version 5.15.106-android14-4-767471-g39089a8ca41d-ab9970741 (build-user@build-host) (Android (9796371, based on r487747) clang version 17.0.0 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.0) #1 SMP PREEMPT Wed Apr 19 03:22:09 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
