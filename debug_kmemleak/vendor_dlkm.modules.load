@@ -30,7 +30,6 @@ extra/private/google-modules/bms/google_dock.ko
 extra/private/google-modules/bms/overheat_mitigation.ko
 extra/private/google-modules/bms/max77729_uic.ko
 extra/private/google-modules/bms/max77729_charger.ko
-extra/private/google-modules/bms/max77779-sp.ko
 extra/private/google-modules/bms/max77779_i2cm.ko
 extra/private/google-modules/bms/max77779_pmic.ko
 extra/private/google-modules/bms/max77779_pmic_irq.ko
