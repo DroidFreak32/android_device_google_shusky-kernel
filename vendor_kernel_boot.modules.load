@@ -172,6 +172,7 @@ extra/private/google-modules/display/samsung/exynos-drm.ko
 extra/private/google-modules/gps/broadcom/bcm47765/bcm47765.ko
 extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko
 extra/private/google-modules/gpu/mali_pixel/mali_pixel.ko
+extra/private/google-modules/hdcp/samsung/exynos-hdcp2.ko
 extra/private/google-modules/nfc/st21nfc.ko
 extra/private/google-modules/nfc/ese/st54spi.ko
 extra/private/google-modules/power/reset/exynos-reboot.ko
