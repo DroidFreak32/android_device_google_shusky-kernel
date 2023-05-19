@@ -1,5 +1,7 @@
 kernel/drivers/watchdog/softdog.ko
 kernel/drivers/perf/arm_dsu_pmu.ko
+kernel/net/wireless/cfg80211.ko
+kernel/net/mac80211/mac80211.ko
 extra/private/google-modules/soc/gs/drivers/pinctrl/pinctrl-slg51002.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/vh_preemptirq_long.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/acpm/acpm_mbox_test.ko
