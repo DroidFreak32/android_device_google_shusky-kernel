@@ -24,6 +24,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/debug/itmon.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/bookerci.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-coresight.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-ecc-handler.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-coresight-etm.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-adv-tracer.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/exynos-adv-tracer-s2d.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/debug/pixel-boot-metrics.ko
