@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10349911"
+    build_id: "10354243"
     target: "shusky_kasan"
     source_file: "btbcm.ko"
   }
