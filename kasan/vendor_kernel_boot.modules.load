@@ -33,7 +33,6 @@ extra/private/google-modules/soc/gs/drivers/soc/google/debug/sjtag-driver.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/vh_sched.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/sched_tp.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/systrace.ko
-extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/fs/vh_fs.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/mm/vh_mm.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/cgroup/vh_cgroup.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/pixel_em/pixel_em.ko
