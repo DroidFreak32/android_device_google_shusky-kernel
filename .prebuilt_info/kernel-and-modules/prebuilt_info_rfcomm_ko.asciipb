@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10390724"
+    build_id: "10397641"
     target: "shusky"
     source_file: "rfcomm.ko"
   }
