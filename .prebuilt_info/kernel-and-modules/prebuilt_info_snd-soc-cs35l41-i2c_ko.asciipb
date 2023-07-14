@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10495226"
+    build_id: "10499981"
     target: "shusky"
     source_file: "snd-soc-cs35l41-i2c.ko"
   }
