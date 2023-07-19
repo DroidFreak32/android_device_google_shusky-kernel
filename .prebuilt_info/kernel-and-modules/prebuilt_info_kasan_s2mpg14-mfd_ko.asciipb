@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10511693"
+    build_id: "10521111"
     target: "shusky_kasan"
     source_file: "s2mpg14-mfd.ko"
   }
