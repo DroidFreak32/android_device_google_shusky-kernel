@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10521111"
+    build_id: "10529646"
     target: "shusky"
     source_file: "nitrous.ko"
   }
