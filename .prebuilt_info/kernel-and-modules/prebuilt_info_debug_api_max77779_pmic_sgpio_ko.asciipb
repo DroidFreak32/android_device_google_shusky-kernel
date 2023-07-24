@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10547377"
+    build_id: "10550358"
     target: "shusky_debug_api"
     source_file: "max77779_pmic_sgpio.ko"
   }
