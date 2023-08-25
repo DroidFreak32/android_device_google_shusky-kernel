@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10707388"
+    build_id: "10715115"
     target: "shusky_kasan"
     source_file: "sbb-mux.ko"
   }
