@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10723532"
+    build_id: "10732441"
     target: "shusky_kasan"
     source_file: "mali_kutf.ko"
   }
