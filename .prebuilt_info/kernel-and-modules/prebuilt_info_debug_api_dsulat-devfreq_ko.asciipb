@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10738981"
+    build_id: "10752299"
     target: "shusky_debug_api"
     source_file: "dsulat-devfreq.ko"
   }
