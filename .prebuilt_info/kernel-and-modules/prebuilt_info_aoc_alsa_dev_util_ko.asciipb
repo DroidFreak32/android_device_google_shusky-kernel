@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10764975"
+    build_id: "10766196"
     target: "shusky"
     source_file: "aoc_alsa_dev_util.ko"
   }
