@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10766196"
+    build_id: "10772590"
     target: "shusky_debug_memory"
     source_file: "usbc_cooling_dev.ko"
   }
