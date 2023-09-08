@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10772590"
+    build_id: "10777198"
     target: "shusky"
     source_file: "pkvm-s2mpu-v9.ko"
   }
