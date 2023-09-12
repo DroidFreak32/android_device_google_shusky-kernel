@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10789518"
+    build_id: "10799287"
     target: "shusky"
     source_file: "google_dual_batt_gauge.ko"
   }
