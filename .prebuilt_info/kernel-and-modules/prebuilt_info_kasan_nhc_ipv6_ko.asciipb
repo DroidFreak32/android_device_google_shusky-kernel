@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10801299"
+    build_id: "10807398"
     target: "shusky_kasan"
     source_file: "nhc_ipv6.ko"
   }
