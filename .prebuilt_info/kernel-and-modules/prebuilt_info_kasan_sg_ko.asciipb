@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10834671"
+    build_id: "10839006"
     target: "shusky_kasan"
     source_file: "sg.ko"
   }
