@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11220635"
+    build_id: "11219961"
     target: "shusky"
     source_file: "pca9468.ko"
   }
   dest_file: "pca9468.ko"
-  version: "11220635"
+  version: "11219961"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
