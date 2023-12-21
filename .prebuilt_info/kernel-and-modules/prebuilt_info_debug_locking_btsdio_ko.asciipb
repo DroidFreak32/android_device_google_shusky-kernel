@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11220635"
+    build_id: "11243880"
     target: "shusky_debug_locking"
     source_file: "btsdio.ko"
   }
   dest_file: "debug_locking/btsdio.ko"
-  version: "11220635"
+  version: "11243880"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
