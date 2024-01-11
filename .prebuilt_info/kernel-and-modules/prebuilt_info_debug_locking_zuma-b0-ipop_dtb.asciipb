@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11288971"
+    build_id: "11300646"
     target: "shusky_debug_locking"
     source_file: "zuma-b0-ipop.dtb"
   }
   dest_file: "debug_locking/zuma-b0-ipop.dtb"
-  version: "11288971"
+  version: "11300646"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
