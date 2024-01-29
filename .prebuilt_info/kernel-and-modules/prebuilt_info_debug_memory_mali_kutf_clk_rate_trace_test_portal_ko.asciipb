@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11364078"
+    build_id: "11370028"
     target: "shusky_debug_memory"
     source_file: "mali_kutf_clk_rate_trace_test_portal.ko"
   }
   dest_file: "debug_memory/mali_kutf_clk_rate_trace_test_portal.ko"
-  version: "11364078"
+  version: "11370028"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }

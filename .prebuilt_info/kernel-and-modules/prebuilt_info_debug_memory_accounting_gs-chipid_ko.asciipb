@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11364078"
+    build_id: "11370028"
     target: "shusky_debug_memory_accounting"
     source_file: "gs-chipid.ko"
   }
   dest_file: "debug_memory_accounting/gs-chipid.ko"
-  version: "11364078"
+  version: "11370028"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
