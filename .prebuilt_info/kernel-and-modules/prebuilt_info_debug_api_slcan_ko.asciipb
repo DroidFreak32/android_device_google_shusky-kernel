@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11364078"
+    build_id: "11370028"
     target: "shusky_debug_api"
     source_file: "slcan.ko"
   }
   dest_file: "debug_api/slcan.ko"
-  version: "11364078"
+  version: "11370028"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
