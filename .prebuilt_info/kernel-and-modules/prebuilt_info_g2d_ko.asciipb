@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11370028"
+    build_id: "11377566"
     target: "shusky"
     source_file: "g2d.ko"
   }
   dest_file: "g2d.ko"
-  version: "11370028"
+  version: "11377566"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
