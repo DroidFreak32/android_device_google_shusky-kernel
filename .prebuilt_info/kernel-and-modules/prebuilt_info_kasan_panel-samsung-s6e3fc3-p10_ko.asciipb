@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11377566"
+    build_id: "11380281"
     target: "shusky_kasan"
     source_file: "panel-samsung-s6e3fc3-p10.ko"
   }
   dest_file: "kasan/panel-samsung-s6e3fc3-p10.ko"
-  version: "11377566"
+  version: "11380281"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
