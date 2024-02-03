@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11380281"
+    build_id: "11396288"
     target: "shusky_debug_memory"
     source_file: "kheaders.ko"
   }
   dest_file: "debug_memory/kheaders.ko"
-  version: "11380281"
+  version: "11396288"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
