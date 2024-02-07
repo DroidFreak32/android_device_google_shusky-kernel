@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11396288"
+    build_id: "11404489"
     target: "shusky_debug_api"
     source_file: "bluetooth.ko"
   }
   dest_file: "debug_api/bluetooth.ko"
-  version: "11396288"
+  version: "11404489"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
