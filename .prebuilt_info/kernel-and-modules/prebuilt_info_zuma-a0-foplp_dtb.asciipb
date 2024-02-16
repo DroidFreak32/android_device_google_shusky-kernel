@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11442708"
+    build_id: "11445873"
     target: "shusky"
     source_file: "zuma-a0-foplp.dtb"
   }
   dest_file: "zuma-a0-foplp.dtb"
-  version: "11442708"
+  version: "11445873"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
