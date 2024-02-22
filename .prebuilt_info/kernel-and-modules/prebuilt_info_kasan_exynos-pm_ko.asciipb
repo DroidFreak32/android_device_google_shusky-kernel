@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11470016"
+    build_id: "11470891"
     target: "shusky_kasan"
     source_file: "exynos-pm.ko"
   }
   dest_file: "kasan/exynos-pm.ko"
-  version: "11470016"
+  version: "11470891"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
