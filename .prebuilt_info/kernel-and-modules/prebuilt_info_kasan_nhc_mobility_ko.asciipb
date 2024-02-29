@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11508632"
+    build_id: "11513542"
     target: "shusky_kasan"
     source_file: "nhc_mobility.ko"
   }
   dest_file: "kasan/nhc_mobility.ko"
-  version: "11508632"
+  version: "11513542"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
