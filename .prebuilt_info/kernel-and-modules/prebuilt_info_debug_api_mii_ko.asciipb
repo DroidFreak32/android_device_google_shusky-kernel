@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11513542"
+    build_id: "11520181"
     target: "shusky_debug_api"
     source_file: "mii.ko"
   }
   dest_file: "debug_api/mii.ko"
-  version: "11513542"
+  version: "11520181"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
