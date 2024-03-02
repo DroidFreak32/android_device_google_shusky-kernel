@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11513542"
+    build_id: "11520181"
     target: "shusky_debug_memory"
     source_file: "mailbox-wc.ko"
   }
   dest_file: "debug_memory/mailbox-wc.ko"
-  version: "11513542"
+  version: "11520181"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
