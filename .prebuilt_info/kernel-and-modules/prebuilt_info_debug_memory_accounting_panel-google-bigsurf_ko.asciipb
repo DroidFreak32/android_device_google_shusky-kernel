@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "12022023"
+    build_id: "12076200"
     target: "shusky_debug_memory_accounting"
     source_file: "panel-google-bigsurf.ko"
   }
   dest_file: "debug_memory_accounting/panel-google-bigsurf.ko"
-  version: "12022023"
+  version: "12076200"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
