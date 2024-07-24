@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11078676"
+    build_id: "11699124"
     target: "shusky_debug_memory_accounting"
     source_file: "rtl8150.ko"
   }
   dest_file: "debug_memory_accounting/rtl8150.ko"
-  version: "8a344afd376b4e2d23e8a9f0952516c42cc5707e"
+  version: "11699124"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }

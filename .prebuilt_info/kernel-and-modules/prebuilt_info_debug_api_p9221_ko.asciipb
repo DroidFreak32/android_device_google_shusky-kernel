@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11078676"
+    build_id: "11699124"
     target: "shusky_debug_api"
     source_file: "p9221.ko"
   }
   dest_file: "debug_api/p9221.ko"
-  version: "8a344afd376b4e2d23e8a9f0952516c42cc5707e"
+  version: "11699124"
   version_group: "kernel-and-modules"
   git_project: "device/google/shusky-kernel"
 }
